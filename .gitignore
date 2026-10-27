@@ -1,0 +1,10 @@
+data/
+uploads/
+reports/
+.env
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+.venv/
+*.log
+private_inputs/
